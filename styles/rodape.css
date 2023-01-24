@@ -1,0 +1,11 @@
+.rodape {
+  display: flex;
+  justify-content: left;
+  margin: 2em 0 0 .5em;
+}
+
+.rodape__texto {
+  color: var(--cinza);
+  font-size: 10px;
+  margin-left: .5em;
+}

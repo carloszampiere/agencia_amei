@@ -1,0 +1,21 @@
+.texto__icones {
+  color: var(--cinza);
+  font-size: 25px;
+  text-align: center;
+  margin-top: 1em;
+  line-height: 1.5;
+}
+.lista__icones {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 2em 2em 1em 2em;
+  align-items: center;
+}
+
+.lista__icones__ {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  margin: 0 4em 0 4em;
+}

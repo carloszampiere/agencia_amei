@@ -1,0 +1,11 @@
+.texto__logo {
+  color: var(--cinza);
+  font-size: 25px;
+  text-align: center;
+  margin-top: 1.5em;
+}
+.logo__ {
+  margin-top: 2em;
+  display: flex;
+  justify-content: space-evenly;
+}
